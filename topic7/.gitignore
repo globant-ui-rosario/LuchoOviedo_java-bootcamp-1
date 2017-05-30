@@ -1,0 +1,10 @@
+*.class
+
+# User-specific stuff:
+.idea/
+target/*
+
+# IntelliJ
+/out/
+*.iml
+
