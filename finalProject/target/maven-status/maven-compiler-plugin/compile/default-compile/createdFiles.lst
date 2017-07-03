@@ -1,0 +1,6 @@
+finalproject/Application.class
+finalproject/repositories/UserRepository.class
+finalproject/services/UserService.class
+finalproject/model/User.class
+finalproject/controllers/UserRestController.class
+finalproject/services/UserServiceImpl.class
